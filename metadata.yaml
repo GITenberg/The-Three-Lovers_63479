@@ -1,0 +1,31 @@
+_repo: The-Three-Lovers_63479
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Swinnerton, Frank
+    alias: Swinnerton, Frank Arthur
+    birthdate: 1884
+    deathdate: 1982
+    gutenberg_agent_id: '5786'
+    url: http://www.gutenberg.org/2009/agents/5786
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Arthur_Swinnerton
+description: ''
+gutenberg_issued: '2020-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63479'
+  lccn: '22026983'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Bohemianism -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Kensington (London, England) -- Fiction'
+- GITenberg
+title: The Three Lovers
+url: http://www.gutenberg.org/ebooks/63479
